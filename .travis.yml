@@ -1,2 +1,2 @@
 language: java
-script: java HTMLParser.java
+script: java HTMLParser
